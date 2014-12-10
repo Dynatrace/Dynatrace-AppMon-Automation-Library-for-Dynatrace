@@ -83,7 +83,7 @@ Support    </p>
             </td>
                 <td rowspan="1" colspan="1">
         <p>
-<a href="https://community/display/DL/Support+Levels#SupportLevels-Supported">Supported</a>    </p>
+<a href="https://community.compuwareapm.com/community/display/DL/Support+Levels#SupportLevels-Supported">Supported</a>    </p>
             </td>
         </tr>
     <tr>
